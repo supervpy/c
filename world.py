@@ -1,3 +1,7 @@
 print'hello workd'
 hello
-hello
+
+hello python
+
+print('jei')
+
